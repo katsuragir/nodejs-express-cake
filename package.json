@@ -11,14 +11,15 @@
   "author": "Ridhliver Software",
   "license": "ISC",
   "dependencies": {
-    "faker": "^6.6.6",
     "cors": "^2.8.5",
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
+    "faker": "^6.6.6",
     "helmet": "^4.6.0",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
     "nodemailer": "^6.7.2",
-    "nodemailer-express-handlebars": "^4.0.0"
+    "nodemailer-express-handlebars": "^4.0.0",
+    "nodemon": "^2.0.15"
   }
 }
